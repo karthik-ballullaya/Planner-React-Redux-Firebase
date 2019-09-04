@@ -24,4 +24,6 @@ Initialize a firebase project in firebase page paste the configurations to the /
 
 ## "npm start" should start the project now!!
 
-### Thanks
+### Watch demo online
+https://mario-plan-644ae.firebaseapp.com
+
