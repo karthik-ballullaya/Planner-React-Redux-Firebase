@@ -19,7 +19,8 @@ cd marioplan
 ## Install firebase-tools globally
 "npm install -g firebase-tools"
 
-## Initialize a firebase project in firebase page paste the confiurations to the /marioplan/src/config/fbConfigExample.js and rename the file to fbConfig.js
+## Initialize firebase project in firebase
+Initialize a firebase project in firebase page paste the configurations to the /marioplan/src/config/fbConfigExample.js and rename the file to fbConfig.js
 
 ## "npm start" should start the project now!!
 
