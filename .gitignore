@@ -24,3 +24,8 @@ yarn-error.log*
 
 # config file
 /src/config/fbConfig.js
+
+#firebase files
+/.firebase
+/.firebaseerc
+/.firebase.json
